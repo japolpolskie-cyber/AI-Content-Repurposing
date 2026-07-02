@@ -1,5 +1,5 @@
 # AI-Content-Repurposing
-AI-powered workflow that transforms long-form content into platform-ready social media posts using Zapier and OpenAI.
+AI-powered workflow that transforms long-form content into platform-ready social media posts using Zapier and Zapier AI Agent.
 # AI Content Repurposing using Zapier
 
 Automatically transform long-form content into multiple social media posts using AI and Zapier.
@@ -10,7 +10,7 @@ Automatically transform long-form content into multiple social media posts using
 
 This project automates the content repurposing process by converting long-form content into multiple platform-specific social media posts.
 
-Using Zapier and OpenAI, the workflow reduces manual writing while maintaining consistent messaging across different platforms.
+Using Zapier and AI Agent, the workflow reduces manual writing while maintaining consistent messaging across different platforms.
 
 ---
 
@@ -27,7 +27,7 @@ This repetitive process slows down content production and reduces marketing effi
 Built a Zapier automation that:
 
 - Receives long-form content
-- Sends the content to OpenAI
+- Sends the content to Zapier AI Agent
 - Generates multiple platform-specific versions
 - Formats the output for each platform
 - Stores or delivers the generated content automatically
@@ -45,7 +45,7 @@ New Content
 Zapier Trigger
       │
       ▼
-OpenAI
+AI by Zapier (AI Agent)
       │
       ▼
 Generate Multiple Posts
@@ -73,7 +73,7 @@ Facebook / Linkedin / Instagram (Output)
 # 🛠️ Technologies Used
 
 - Zapier
-- OpenAI
+- AI by Zapier
 - ChatGPT
 - Facebook
 - Linkedin
